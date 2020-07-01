@@ -7,14 +7,14 @@
 Economista del Politécnico Grancolombiano y candidato a magister en la Universidad de los Andes. Ha sido ponente en temas de modelación estocástico en mercados financieros y modelos de lógica difusa en congresos internacionales tales como el Congreso Iberoamericano en Economía Aplicada. Es coautor de uno de los capítulos del libro MODELING AND SIMULATION IN MANAGAMENT SCIENCE, editorial SPRINGER, titulado "Light Innovation in Energy Supply for Non-connected Areas in Colombia: Partial Research via the Forgotten Effects Model". Sus intereses se centran en investigación cuantitativa, Econometría, Análisis Predictivo, Series de Tiempo, combinando técnicas y algoritmos de Aprendizaje Autómatico (Machine Learning) y Aprendizaje Profundo (Deep Learning).
 
 # Course work repositories:
-Rpubs: [sergiomora123](https://rpubs.com/sergiomora123)
-Kyso: [sergiomora03](http://kyso.io/sergiomora03)
-Github: [sergiomora03](https://github.com/sergiomora03)
+* Rpubs: [sergiomora123](https://rpubs.com/sergiomora123)
+* Kyso: [sergiomora03](http://kyso.io/sergiomora03)
+* Github: [sergiomora03](https://github.com/sergiomora03)
 
 # Shiny Apps:
 
-[Covid-19 Dashboard V1](https://sergiomora123.shinyapps.io/covid19_dashboard/)
-[Covid-19 Dashboard V2](https://sergiomora123.shinyapps.io/covid_19/)
+1. [Covid-19 Dashboard V1](https://sergiomora123.shinyapps.io/covid19_dashboard/)
+2. [Covid-19 Dashboard V2](https://sergiomora123.shinyapps.io/covid_19/)
 
 # Works:
 ### Covid-19
