@@ -42,8 +42,24 @@ En el siguiente notebook se analiza la serie de tiempo de producción de cerveza
 * Kaggle: [Time Series Analysis ARIMA SARIMA Prophet LSTM](https://www.kaggle.com/sergiomora823/time-series-analysis-arima-sarima-prophet-lstm)
 * Github: [Time Series Analysis ARIMA SARIMA Prophet LSTM](https://sergiomora03.github.io/Time-Series-Analysis-ARIMA-SARIMA-Prophet-LSTM/)
 
+Contenido:
+
 |Description|File|
 |----|--------|
 |Notebook|[Time Series Analysis](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/notebooks/Proyecto_1_M%C3%A9todos_de_An%C3%A1lisis_Avanzados.ipynb)|
 |Dataset|[Monthly beer production](https://www.kaggle.com/shenba/time-series-datasets)|
+
+## Machine Learning Systems
+
+Github: [MachineLearningSystems](https://sergiomora03.github.io/MachineLearningSystem/)
+
+Contenido:
+
+|Description|File|
+|----|--------|
+|API AWS|[Car Price Predictor](http://ec2-3-14-9-184.us-east-2.compute.amazonaws.com:8888/)|
+|Notebook|[Machine Learning Systems](https://nbviewer.jupyter.org/github/sergiomora03/MachineLearningSystems/blob/master/P2_Machine_Learning_Systems.ipynb)|
+|API scrpit|[api.py](https://github.com/NecesitoUnNick/P2/blob/master/P2/api.py)|
+|Deployment|[model_deployment.py](https://github.com/NecesitoUnNick/P2/blob/master/P2/model_deployment.py)|
+|Dataset|[Kaggle Dataset](https://www.kaggle.com/jpayne/852k-used-car-listings)|
 
