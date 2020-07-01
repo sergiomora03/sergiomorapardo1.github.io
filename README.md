@@ -69,30 +69,22 @@ Contenido:
 # Working Papers
 * 2019
 
-[*“LIGHT INNOVATION IN ENERGY SUPPLY FOR NONCONNECTED AREAS IN COLOMBIA: PARTIAL RESEARCH
-VIA THE FORGOTTEN EFFECTS MODEL”*](https://link.springer.com/chapter/10.1007/978-3-030-15413-4_4).
+[**“Light Innovation In Energy Supply For Nonconnected Areas In Colombia: Partial Research Via The Forgotten Effects Model”**](https://link.springer.com/chapter/10.1007/978-3-030-15413-4_4).
 
-*BOOK:* MODELLING AND SIMULATION IN MANAGEMENT SCIENCES. SPRINGER INTERNATIONAL PUBLISHING.
-SERIES: ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING, VOLUME 894.
+**BOOK:** _Modelling And Simulation In Management Sciences_. Springer International Publishing. Series: Advances In Intelligent Systems And Computing, Volume 894.
 HTTPS://DOI.ORG/10.1007/978-3-030-15413-4
 
-[*“SISTEMAS DE INNOVACIÓN EN LATINOAMÉRICA: UNA MIRADA
-COMPARTIDA DESDE MÉXICO, COLOMBIA Y
-CHILE”*](https://racef.es/archivos/publicaciones/mo_54_19_sistemas_innov_latinoamerica_libro_definitivo.pdf)
+[**“Sistemas De Innovación En Latinoamérica: Una Mirada Compartida Desde México, Colombia Y Chile.”**](https://racef.es/archivos/publicaciones/mo_54_19_sistemas_innov_latinoamerica_libro_definitivo.pdf)
 
 OBSERVATORIO DE INVESTIGACIÓN ECONÓMICOFINANCIERA. ISBN- 978-84-09-08037-3
 REAL ACADEMIA DE CIENCIAS ECONÓMICAS Y FINANCIERAS, BARCELONA, 2019
 
 * 2017
 
-[*“EL SECTOR ENERGÉTICO COLOMBIANO: EL CASO
-DE LAS ZONAS NO INTERCONECTADAS VISTO A
-TRAVÉS DE LA INNOVACIÓN LIGERA”*](https://www.semanticscholar.org/paper/EL-SECTOR-ENERG%C3%89TICO-COLOMBIANO%3A-EL-CASO-DE-LAS-NO-Triana-Escobar/b73875d0565fe8c8a53a2a0eca9f6f1752d68b76#related-papers). 2017
+[**“El Sector Energético Colombiano: El Caso De Las Zonas No Interconectadas Visto A Través De La Innovación Ligera”**](https://www.semanticscholar.org/paper/EL-SECTOR-ENERG%C3%89TICO-COLOMBIANO%3A-EL-CASO-DE-LAS-NO-Triana-Escobar/b73875d0565fe8c8a53a2a0eca9f6f1752d68b76#related-papers). 2017
 
-OPEN JOURNAL SYSTEM POLITÉCNICO GRANCOLOMBIANO.
-WORKING PAPERS. ENERO – JUNIO, 2017
+Open Journal System Politécnico Grancolombiano. Working Papers. ENERO – JUNIO, 2017
 
-[*“RED IBEROAMERICANA PARA LA COMPETITIVIDAD”*](https://journal.poligran.edu.co/index.php/wpmgem/article/view/972). 2017
+[**“Red Iberoamericana Para La Competitividad”**](https://journal.poligran.edu.co/index.php/wpmgem/article/view/972). 2017
 
-OPEN JOURNAL SYSTEM POLITÉCNICO GRANCOLOMBIANO.
-WORKING PAPERS. ENERO – JUNIO, 2017
+Open Journal System Politécnico Grancolombiano. Working Papers. ENERO – JUNIO, 2017
