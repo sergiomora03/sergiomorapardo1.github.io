@@ -1,6 +1,5 @@
 # Sergio A. Mora Pardo
-### Msc (c) Analytics.
-### Universidad de los Andes
+### Msc (c) Analytics. Universidad de los Andes
 
 * email: [sergiomora823@gmail.com](mailto:sergiomora823@gmail.com)
 * LinkedIn: [sergiomorapardo](https://www.linkedin.com/in/sergiomorapardo/)
