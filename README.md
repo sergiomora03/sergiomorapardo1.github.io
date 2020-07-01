@@ -17,6 +17,7 @@ Economista del Politécnico Grancolombiano y candidato a magister en la Universi
 1. [TransportApp](https://sergiomora123.shinyapps.io/TransportApp/)
 2. [Covid-19 Dashboard V1](https://sergiomora123.shinyapps.io/covid19_dashboard/)
 3. [Covid-19 Dashboard V2](https://sergiomora123.shinyapps.io/covid_19/)
+4. [Survey with Shiny APP](https://samora.shinyapps.io/Survey/)
 
 # Works:
 ## Covid-19
