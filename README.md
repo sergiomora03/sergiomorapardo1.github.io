@@ -38,11 +38,11 @@ Contenido:
 
 En el siguiente notebook se analiza la serie de tiempo de producción de cerveza de Australia. Se aplican los modelos ARIMA, SARIMA. También, se prueba el ajuste con Prophet y finalmente, se crea una Red Neuronal Recurrente con una celda LSTM.
 
-* Github: [Time Series Analysis ARIMA SARIMA Prophet LSTM](https://sergiomora03.github.io/Time-Series-Analysis-ARIMA-SARIMA-Prophet-LSTM/)
 * Kaggle: [Time Series Analysis ARIMA SARIMA Prophet LSTM](https://www.kaggle.com/sergiomora823/time-series-analysis-arima-sarima-prophet-lstm)
+* Github: [Time Series Analysis ARIMA SARIMA Prophet LSTM](https://sergiomora03.github.io/Time-Series-Analysis-ARIMA-SARIMA-Prophet-LSTM/)
 
 |Description|File|
 |----|--------|
-|Notebook|[Proyecto 1](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/notebooks/Proyecto_1_M%C3%A9todos_de_An%C3%A1lisis_Avanzados.ipynb)|
+|Notebook|[Time Series Analysis](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/notebooks/Proyecto_1_M%C3%A9todos_de_An%C3%A1lisis_Avanzados.ipynb)|
 |Dataset|[Monthly beer production](https://www.kaggle.com/shenba/time-series-datasets)|
 
