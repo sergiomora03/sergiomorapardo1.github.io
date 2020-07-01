@@ -19,7 +19,7 @@ Economista del Politécnico Grancolombiano y candidato a magister en la Universi
 3. [Covid-19 Dashboard V2](https://sergiomora123.shinyapps.io/covid_19/)
 
 # Works:
-### Covid-19
+## Covid-19
 
 Crear un modelo que permita entender la propagación del SARS-CoV-2, prediciendo la curva de infectados y su duración a lo largo del tiempo en Colombia.
 
@@ -33,7 +33,7 @@ Contenido:
 |Dashboard|[Shiny V1](https://sergiomora123.shinyapps.io/covid19_dashboard/)|
 |Dashboard|[Shiny V2](https://sergiomora123.shinyapps.io/covid_19/)|
 
-### Time Series Analysis: ARIMA, SARIMA, Prophet, LSTM
+## Time Series Analysis: ARIMA, SARIMA, Prophet, LSTM
 
 Github: [Time Series Analysis ARIMA SARIMA Prophet LSTM](https://sergiomora03.github.io/Time-Series-Analysis-ARIMA-SARIMA-Prophet-LSTM/)
 
