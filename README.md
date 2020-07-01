@@ -51,6 +51,8 @@ Contenido:
 
 ## Machine Learning Systems
 
+En el siguiente proyecto se realizan dos modelos de ensambles. El primero, es un meta algorítmo ensamblado en dos fases, donde el primero tiene un ensable de 6 modelos y en la segunda fase un emsamble por una regresión lineal. Y el segundo, es un ensamble construyendo un _Bagging Linear Regression With Boostrap Sustitution_.
+
 Github: [MachineLearningSystems](https://sergiomora03.github.io/MachineLearningSystem/)
 
 Contenido:
