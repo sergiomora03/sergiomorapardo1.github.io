@@ -11,6 +11,7 @@ Economista del Politécnico Grancolombiano y candidato a magister en la Universi
 * Kyso: [sergiomora03](http://kyso.io/sergiomora03)
 * Github: [sergiomora03](https://github.com/sergiomora03)
 * Kaggle: [sergiomora823](https://www.kaggle.com/sergiomora823)
+* CvLAC: [Sergio Alberto Mora Pardo](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001689635) \*_Por actualizar_
 
 # Shiny Apps:
 
