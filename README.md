@@ -66,6 +66,23 @@ Contenido:
 |Deployment|[model_deployment.py](https://github.com/NecesitoUnNick/P2/blob/master/P2/model_deployment.py)|
 |Dataset|[Kaggle Dataset](https://www.kaggle.com/jpayne/852k-used-car-listings)|
 
+## NLP: Natural Lenguage Processing
+
+Un pequeño proyecto sobre una competencia desarollada en clase sobre el desarollo de un modelo Multi-class Multi-label para pronósticar el tipo de peliculas de acuerdo al resumen, el año y el titulo.
+
+Github: [NLP-Natural-Language-Processing](https://sergiomora03.github.io/NLP-Natural-Language-Processing/)
+
+### Content
+
+|Description|File|
+|----|--------|
+|Notebook|[P3_MovieGenrePrediction](https://github.com/sergiomora03/NLP-Natural-Language-Processing/blob/master/Project/Notebook/P3_MovieGenrePrediction_final.ipynb)|
+|API deploy|[Movie Genre Prediction Deploy](https://github.com/sergiomora03/NLP-Natural-Language-Processing/tree/master/Project/API)|
+|API|[Movie Genre Prediction API](http://ec2-18-218-221-161.us-east-2.compute.amazonaws.com:5000)|
+|Documentation|[Movie Genre Prediction](https://github.com/sergiomora03/NLP-Natural-Language-Processing/blob/master/Project/Documentation/Proyecto%203%20-%20NLP.pdf)|
+|Dataset|[Kaggle](https://www.kaggle.com/c/miia4201-202019-p3-moviegenreclassification/data)|
+
+
 ## Supply Chain Analytics
 
 En un enfoque práctico en técnicas analíticas a nivel prescriptivo para la toma de decisiones estratégicas, tácticas
