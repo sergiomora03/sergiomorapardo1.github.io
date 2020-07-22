@@ -11,7 +11,7 @@ Economista del Politécnico Grancolombiano y candidato a magister en la Universi
 * Kyso: [sergiomora03](http://kyso.io/sergiomora03)
 * Github: [sergiomora03](https://github.com/sergiomora03)
 * Kaggle: [sergiomora823](https://www.kaggle.com/sergiomora823)
-* CvLAC: [Sergio Alberto Mora Pardo](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001689635) \*_Por actualizar_
+* CvLAC: [Sergio Alberto Mora Pardo](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001689635) \*_Por actualizar_*
 
 # Shiny Apps:
 
@@ -72,6 +72,8 @@ En un enfoque práctico en técnicas analíticas a nivel prescriptivo para la to
 y operacionales en cadenas de suministro *(Supply Chain)*. Razonamiento
 y modelamiento cuantitativo a través de la formulación, resolución e interpretación de modelos de optimización aplicados a
 problemas de localización, suministro flexible, producción, transporte, entre otros. 
+
+Github: [Supply-Chain-Analytics](https://sergiomora03.github.io/Supply-Chain-Analytics/)
 
 ### Content
 
