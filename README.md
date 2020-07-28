@@ -20,10 +20,6 @@ Economista del Politécnico Grancolombiano y candidato a magister en la Universi
 3. [Covid-19 Dashboard V2](https://sergiomora123.shinyapps.io/covid_19/)
 4. [Survey with Shiny APP](https://samora.shinyapps.io/Survey/)
 
-# Some repositories:
-
-* [GMM: Gaussian Mixture Models](https://sergiomora03.github.io/GMM-Gaussian-Mixture-Models/)
-* [Deep learning basics](https://sergiomora03.github.io/deep-learning-basics/)
 
 # Works:
 ## Covid-19
@@ -136,3 +132,8 @@ Observatorio De Investigación Económicofinanciera. ISBN-978-84-09-08037-3. Rea
 [**“El Sector Energético Colombiano: El Caso De Las Zonas No Interconectadas Visto A Través De La Innovación Ligera”**](https://www.semanticscholar.org/paper/EL-SECTOR-ENERG%C3%89TICO-COLOMBIANO%3A-EL-CASO-DE-LAS-NO-Triana-Escobar/b73875d0565fe8c8a53a2a0eca9f6f1752d68b76#related-papers). Open Journal System Politécnico Grancolombiano. Working Papers. ENERO – JUNIO, 2017
 
 [**“Red Iberoamericana Para La Competitividad”**](https://journal.poligran.edu.co/index.php/wpmgem/article/view/972).Open Journal System Politécnico Grancolombiano. Working Papers. ENERO – JUNIO, 2017
+
+# Others github repositories:
+
+* [GMM: Gaussian Mixture Models](https://sergiomora03.github.io/GMM-Gaussian-Mixture-Models/)
+* [Deep learning basics](https://sergiomora03.github.io/deep-learning-basics/)
