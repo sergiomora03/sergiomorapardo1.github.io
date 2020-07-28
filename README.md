@@ -20,6 +20,11 @@ Economista del Politécnico Grancolombiano y candidato a magister en la Universi
 3. [Covid-19 Dashboard V2](https://sergiomora123.shinyapps.io/covid_19/)
 4. [Survey with Shiny APP](https://samora.shinyapps.io/Survey/)
 
+# Some repositories:
+
+* [GMM: Gaussian Mixture Models](https://sergiomora03.github.io/GMM-Gaussian-Mixture-Models/)
+* [Deep learning basics](https://sergiomora03.github.io/deep-learning-basics/)
+
 # Works:
 ## Covid-19
 
