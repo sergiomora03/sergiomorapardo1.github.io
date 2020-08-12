@@ -1,5 +1,7 @@
-# [Sergio A. Mora Pardo](https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+# Sergio A. Mora Pardo
 ### Msc (c) Analytics. Universidad de los Andes
+
+##### My resume [here](https://www.canva.com/design/DADhSYqSGD4/1rn2crvsGf4aLQNChQLlJA/view?utm_content=DADhSYqSGD4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton).
 
 * github: [sergiomora03](https://github.com/sergiomora03)
 * email: [sergiomora823@gmail.com](mailto:sergiomora823@gmail.com)
