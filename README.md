@@ -19,9 +19,13 @@ Economista del Politécnico Grancolombiano y candidato a magister en la Universi
 # Shiny Apps:
 
 1. [TransportApp](https://sergiomora123.shinyapps.io/TransportApp/)
-2. [Covid-19 Dashboard V1](https://sergiomora123.shinyapps.io/covid19_dashboard/)
-3. [Covid-19 Dashboard V2](https://sergiomora123.shinyapps.io/covid_19/)
+2. [Covid-19 Dashboard v1.0](https://sergiomora123.shinyapps.io/covid19_dashboard/)
+3. [Covid-19 Dashboard v2.0](https://sergiomora123.shinyapps.io/covid_19/)
 4. [Survey with Shiny APP](https://samora.shinyapps.io/Survey/)
+
+# Heroku Apps:
+
+1. [penguins v1.0](https://penguins-v10.herokuapp.com/)
 
 
 # Works:
